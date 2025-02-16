@@ -27,11 +27,6 @@ Check out the live demo here: **[Click Here](https://shenalsen.github.io/genai10
 2. **Open `index.html` in a browser**
 3. **To edit facts**, modify the `facts` array inside `script.js`
 
-## Hosting on GitHub Pages
-1. Push your repository to GitHub.
-2. Go to **Settings > Pages** in your repository.
-3. Under **Branch**, select `main` and save.
-4. Your app will be live at **https://yourusername.github.io/fun-facts-app/**
 
 ## Customization
 - Modify the `facts` array in `script.js` to add your own facts.
