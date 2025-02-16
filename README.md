@@ -10,7 +10,7 @@ The **Fun Facts Generator App** is a simple and interactive web application that
 - **Easy Hosting on GitHub Pages**: Deploy the app in minutes and share with others.
 
 ## Live Demo
-Check out the live demo here: **[https://yourusername.github.io/fun-facts-app/](https://yourusername.github.io/fun-facts-app/)**
+Check out the live demo here: **[https://yourusername.github.io/fun-facts-app/](https://shenalsen.github.io/genai101/)**
 
 ## How It Works
 1. Open the app in your web browser.
